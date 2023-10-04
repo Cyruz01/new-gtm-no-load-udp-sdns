@@ -5,8 +5,8 @@
 ## run command: ./globe-civ3.sh l
 
 ## Your DNSTT Nameserver & your Domain `A` Record
-NS='ns-sau1.vpnjantit.com'
-A='sau1.vpnjantit.com'
+NS='ns-ph7.vpnjantit.com'
+A='ph7.vpnjantit.com'
 ## Repeat dig cmd loop time (seconds) (positive interger only)
 LOOP_DELAY=5
 
